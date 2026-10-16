@@ -1,7 +1,7 @@
 # Resim Dönüştürücü (Image Converter)
 
 <p align="center">
-  <img src="docs/gorsel.png" width="400" alt="Resim Dönüştürücü">
+  <img src="[docs/gorsel.png](https://play-lh.googleusercontent.com/u1eo7fmXLe3sI0z4tsTmIO0pTwXL5griHAupV3PLLxWVNLT5BiiVdoLyNfMcuLqtQdWhyLOKrOOsaaP8mCZoABc)" width="400" alt="Resim Dönüştürücü">
 </p>
 
 [Türkçe](#türkçe) | [English](#english)
