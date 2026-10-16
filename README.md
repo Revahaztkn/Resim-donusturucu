@@ -1,10 +1,12 @@
-# Resim Dönüştürücü (Image Converter)
-
 <p align="center">
-  <img src="[docs/gorsel.png](https://play-lh.googleusercontent.com/u1eo7fmXLe3sI0z4tsTmIO0pTwXL5griHAupV3PLLxWVNLT5BiiVdoLyNfMcuLqtQdWhyLOKrOOsaaP8mCZoABc)" width="400" alt="Resim Dönüştürücü">
+  <img src="gorsel.png" width="160" alt="Resim Dönüştürücü">
 </p>
 
-[Türkçe](#türkçe) | [English](#english)
+<h1 align="center">Resim Dönüştürücü (Image Converter)</h1>
+
+<p align="center">
+  <a href="#türkçe">Türkçe</a> | <a href="#english">English</a>
+</p>
 
 ---
 
