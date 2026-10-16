@@ -1,5 +1,9 @@
 # Resim Dönüştürücü (Image Converter)
 
+<p align="center">
+  <img src="docs/gorsel.png" width="400" alt="Resim Dönüştürücü">
+</p>
+
 [Türkçe](#türkçe) | [English](#english)
 
 ---
